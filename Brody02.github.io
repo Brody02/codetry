@@ -1,0 +1,7 @@
+<title>Codetry1<tittle/>
+<p>Trying button</p>
+<rh>
+<button type="button">https://www.w3schools.com/</button>
+p {
+  text-align: center;
+  color: red;
